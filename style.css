@@ -223,6 +223,7 @@ nav ul li a:hover::after{
 }
 .services-list div:hover{
     background: #F5E050;
+    font-color: #282828;
     transform: translateY(-10px);
 }
 #portfolio{
